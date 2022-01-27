@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./assets/css/style.css">
+        <link rel="shortcut icon" href="./assets/images/favicon/favicon.ico" type="image/x-icon">
+        <title>Alura Challenge ONE - Decodificador</title>
+    </head>
+    <body>
+        <a href="https://cursos.alura.com.br/"><img src="./assets/images/Vector.png" alt="aluralogo"></a>
+
+        <h1 class="titulo">Codificador/Decodificador</h1>
+
+        <main>
+         <form id="text" action="">
+            <div class="text--area"> 
+                <p>Apenas letras minúsculas, sem acentos.</p>
+                <textarea class="text-area" name="mensagem" placeholder="Digite seu texto aqui!"  onfocus="this.value='';" ></textarea>
+                <button class="btn-crypto" type="submit" value="cripto">Criptografar</button>
+                <button class="btn-decrypto" type="submit" value="descripto">Descriptografar</button>
+            </div>
+
+            <div class="crypto--area"> 
+                <p>Mensagem Criptografada/Descriptografada.</p>
+                <textarea class="text-crypto" name="mensagem" readonly></textarea>
+                <button class="btn-copy" type="button">Copiar</button>
+                <button class="btn-clear" type="button">Limpar</button>
+            </div>
+         </form> 
+        </main>
+
+        <footer>
+            <div class="social--area">
+                <span> 2022 &copy;  Desenvolvido por Celso Lacerda</span> 
+                <a href="https://github.com/Celsohsl"><img src="./assets/images/icons8-github-48.png" alt="GitHub"></a>
+                <a href="https://www.linkedin.com/in/celso-henrique-da-silva-lacerda-front-end/"><img src="./assets/images/icons8-linkedin-48.png" alt="GitHub"></a>
+            </div>
+        </footer>
+
+        <script src="./assets/js/cripto.js"></script>
+
+    </body>
+</html>

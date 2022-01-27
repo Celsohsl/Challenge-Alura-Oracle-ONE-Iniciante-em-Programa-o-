@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto:wght@400;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+    box-sizing: border-box;
+    outline: none;
+
+}
+
+html,
+body {
+    /* width: 100%; */
+    height: 100%;
+    overflow-x: hidden;
+    background-color: #F3F5FC;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    
+}
+
+main #text {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+
+}
+
+a img {
+    padding: 30px;
+
+}
+
+p {
+    margin-bottom: 20px;
+
+}
+
+.text--area {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    width: 40%;
+    border-radius: 20px;
+    
+}
+
+.text-area {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    height: 12em;
+    background: #cecece;
+    border: 1px solid black;
+    border-radius: 0px 40px 0px 40px;
+    box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
+   
+}
+
+.crypto--area {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    flex-direction: column;
+
+} 
+
+.text-crypto{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    height: 12em;
+    background: #cecece;
+    border: 1px solid black;
+    border-radius: 0px 40px 0px 40px;
+    box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
+   
+}
+
+ .btn-crypto {
+    width: 80%;
+    height: 3em;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    background: transparent;
+    border: 1px solid blue;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+.btn-crypto:hover {
+    transition: background, color 0.5s;
+    background: #0A3871;
+    color: white;
+
+}
+
+.btn-decrypto {
+    width: 80%;
+    height: 3em;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: 1px solid blue;
+    background: transparent;
+    font-weight: bold;
+    text-transform: uppercase;
+
+} 
+
+.btn-decrypto:hover {
+    transition: background, color 0.5s;
+    background: #0A3871;
+    color: white;
+
+}
+
+.btn-copy {
+    width: 80%;
+    height: 3em;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: 1px solid blue;
+    background: transparent;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.btn-copy:hover {
+    transition: background, color 0.5s;
+    background:#0A3871;
+    color: white;
+
+}
+
+.btn-clear {
+    width: 80%;
+    height: 3em;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: 1px solid blue;
+    background: transparent;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+.btn-clear:hover {
+    transition: background, color 0.5s;
+    background: #0A3871;
+    color: white;
+
+}
+
+.social--area {
+    display: flex;
+    /* position: absolute;    */
+    bottom: 0;
+    margin-top: 80px;
+    width: 100%;  
+    height: 70px;   
+    background-color: #0A3871;;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.social--area a img {
+    display: flex;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+
