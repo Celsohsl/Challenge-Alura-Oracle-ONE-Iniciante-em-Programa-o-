@@ -53,11 +53,11 @@ Aplicar estilos em seu site:
   
 
 <p align="left">
-  💻 Skills: <strong>| JavaScript | CSS | HTML</strong>
+  💻<strong> Skills:</strong> | JavaScript | CSS | HTML
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>VS Code | Figma | GitHub.</strong>
+  🛠<strong> Ferramentas:</strong> VS Code | Figma | GitHub.
 </p>
 
 <p align="left">
