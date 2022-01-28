@@ -3,6 +3,11 @@
 
  <div align ="center">
  <img  src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/share_image.jpg" />
+ 
+ <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador.png" />
+ 
+ <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador%201.png" />
+ 
 </div>
 
 <h2 align ="center">Sobre o desafio 📜<br>
