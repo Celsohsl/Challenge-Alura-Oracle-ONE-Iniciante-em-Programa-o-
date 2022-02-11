@@ -1,6 +1,14 @@
 # Primeiro Challenge:  Alura + Oracle ONE, Lógica de Programação!
 <br>
 
+ <div align ="center">
+ <img  src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/share_image.jpg" />
+ 
+ <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador.png" />
+ 
+ <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador%201.png" />
+ 
+</div>
 
 <h2 align ="center">Sobre o desafio 📜<br>
 Construir um decodificador de texto com Javascript</h2>
@@ -50,11 +58,11 @@ Aplicar estilos em seu site:
   
 
 <p align="left">
-  💻 Skills: <strong>| JavaScript | CSS | HTML</strong>
+  💻<strong> Skills:</strong> | JavaScript | CSS | HTML
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>VS Code | Figma | GitHub.</strong>
+  🛠<strong> Ferramentas:</strong> VS Code | Figma | GitHub.
 </p>
 
 <p align="left">
