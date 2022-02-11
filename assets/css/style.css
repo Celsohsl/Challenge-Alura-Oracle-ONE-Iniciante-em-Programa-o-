@@ -35,12 +35,10 @@ main #text {
 
 a img {
     padding: 30px;
-
 }
 
 p {
     margin-bottom: 20px;
-
 }
 
 .text--area {
@@ -192,4 +190,10 @@ p {
     margin-left: 10px;
 }
 
-
+ @media screen and (max-width: 480px) {
+    .btn-decrypto, .btn-crypto, .btn-copy, .btn-clear {
+        width: 70%;
+        font-size: 10px;
+    
+    } 
+} 
