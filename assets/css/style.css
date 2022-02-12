@@ -191,11 +191,19 @@ p {
         width: 60%;
         height: 3.5em;
         font-size: 0.3em;
-        background: transparent;
+        color: #000;
+        
     }
 
     h1 {
         font-size: 1.5em; 
+    }
+
+    .btn-crypto:hover {
+        transition: background, color 0.5s;
+        background:#0A3871;
+        color: #ffff;
+    
     }
 
 } 
