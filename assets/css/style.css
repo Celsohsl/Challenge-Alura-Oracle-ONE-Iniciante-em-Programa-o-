@@ -23,6 +23,7 @@ h1 {
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
+    align-items: center;
     
 }
 
@@ -103,7 +104,7 @@ p {
 }
 
 .btn-crypto:hover {
-    transition: background, color 0.5s;
+    /* transition: background, color 0.5s; */
     background: #0A3871;
     color: white;
 
@@ -123,7 +124,7 @@ p {
 } 
 
 .btn-decrypto:hover {
-    transition: background, color 0.5s;
+    /* transition: background, color 0.5s; */
     background: #0A3871;
     color: white;
 
@@ -142,7 +143,7 @@ p {
 }
 
 .btn-copy:hover {
-    transition: background, color 0.5s;
+    /* transition: background, color 0.5s; */
     background:#0A3871;
     color: white;
 
@@ -162,7 +163,7 @@ p {
 }
 
 .btn-clear:hover {
-    transition: background, color 0.5s;
+    /* transition: background, color 0.5s; */
     background: #0A3871;
     color: white;
 
@@ -193,7 +194,11 @@ p {
  @media screen and (max-width: 480px) {
     .btn-decrypto, .btn-crypto, .btn-copy, .btn-clear {
         width: 70%;
-        font-size: 10px;
-    
-    } 
+        height: 2em;
+        font-size: 0.5em;
+    }
+
+    h1 {
+        font-size: 1.3em; 
+    }
 } 
