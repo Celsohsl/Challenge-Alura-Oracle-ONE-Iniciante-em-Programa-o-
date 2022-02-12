@@ -90,11 +90,12 @@ p {
    
 }
 
+button:hover { cursor: pointer; }
+
  .btn-crypto {
     width: 80%;
     height: 3em;
     border-radius: 20px;
-    cursor: pointer;
     margin-top: 20px;
     background: transparent;
     border: 1px solid blue;
@@ -106,7 +107,7 @@ p {
 .btn-crypto:hover {
     transition: background, color 0.5s;
     background: #0A3871;
-    color: white;
+    color: #ffff;
 
 }
 
@@ -114,19 +115,18 @@ p {
     width: 80%;
     height: 3em;
     border-radius: 20px;
-    cursor: pointer;
     margin-top: 20px;
     border: 1px solid blue;
     background: transparent;
     font-weight: bold;
     text-transform: uppercase;
-
+    
 } 
 
 .btn-decrypto:hover {
     transition: background, color 0.5s;
     background: #0A3871;
-    color: white;
+    color: #ffff;
 
 }
 
@@ -134,7 +134,6 @@ p {
     width: 80%;
     height: 3em;
     border-radius: 20px;
-    cursor: pointer;
     margin-top: 20px;
     border: 1px solid blue;
     background: transparent;
@@ -145,7 +144,7 @@ p {
 .btn-copy:hover {
     transition: background, color 0.5s;
     background:#0A3871;
-    color: white;
+    color: #ffff;
 
 }
 
@@ -153,7 +152,6 @@ p {
     width: 80%;
     height: 3em;
     border-radius: 20px;
-    cursor: pointer;
     margin-top: 20px;
     border: 1px solid blue;
     background: transparent;
@@ -165,7 +163,7 @@ p {
 .btn-clear:hover {
     transition: background, color 0.5s;
     background: #0A3871;
-    color: white;
+    color: #ffff;
 
 }
 
@@ -197,7 +195,7 @@ p {
         height: 2.3em;
         font-size: 0.3em;
         background-color: #0A3871;
-        color: #F3F5FC;
+        color: #ffff;
         transition: background, none;
     }
 
