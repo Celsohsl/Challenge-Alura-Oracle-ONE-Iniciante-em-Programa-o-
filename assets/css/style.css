@@ -89,9 +89,6 @@ p {
     -moz-box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
    
 }
-
-button:hover { cursor: pointer; }
-
  .btn-crypto {
     width: 80%;
     height: 3em;
@@ -194,16 +191,11 @@ button:hover { cursor: pointer; }
         width: 60%;
         height: 3.5em;
         font-size: 0.3em;
-        background-color: #0A3871;
-        color: #ffff;
-        /* transition: background, none; */
+        background: transparent;
     }
 
     h1 {
-        font-size: 1.4em; 
+        font-size: 1.5em; 
     }
 
-    main {
-        display: block;
-    }
 } 
