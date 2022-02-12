@@ -191,15 +191,19 @@ button:hover { cursor: pointer; }
 
  @media screen and (max-width: 480px) {
     .btn-decrypto, .btn-crypto, .btn-copy, .btn-clear {
-        width: 70%;
-        height: 2.3em;
+        width: 60%;
+        height: 3.5em;
         font-size: 0.3em;
         background-color: #0A3871;
         color: #ffff;
-        transition: background, none;
+        /* transition: background, none; */
     }
 
     h1 {
-        font-size: 1em; 
+        font-size: 1.4em; 
+    }
+
+    main {
+        display: block;
     }
 } 
