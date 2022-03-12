@@ -50,11 +50,11 @@ Aplicar estilos em seu site:
 - Trocar estilos, cores e bordas dos botões.
 
 #
-<div align="right">
-  <img height="180em" src=""/>
- <h2 align="left">Badge conquistada com esse projeto.</h2>
+<div align="center">
+  <img height="300px" width="300px" src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/badge_decodificador.png"/>
+  <h2 align="center">Badge conquistada com esse projeto.</h2>
 </div
-
+ 
 ### Links Úteis:
 [Challenge Oracle ONE](https://www.alura.com.br/challenges/oracle-one/semana01e02-construa-decodificador-texto-com-javascript) |
 [Projeto no Figma](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=16%3A802)
