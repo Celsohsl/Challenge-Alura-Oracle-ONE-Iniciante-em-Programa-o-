@@ -1,14 +1,14 @@
-# Primeiro Challenge:  Alura + Oracle ONE, Lógica de Programação!
-<br>
+<h1 align ="center">Primeiro Challenge:  Alura + Oracle ONE, Lógica de Programação!</h1>
 
  <div align ="center">
  <img  src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/share_image.jpg" />
+ </div>
  
+ <h2 align ="center">Screenshots</h2>
  <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador.png" />
  
  <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador%201.png" />
  
-</div>
 
 <h2 align ="center">Sobre o desafio 📜<br>
 Construir um decodificador de texto com Javascript</h2>
@@ -50,11 +50,11 @@ Aplicar estilos em seu site:
 - Trocar estilos, cores e bordas dos botões.
 
 #
-<div align="right">
-  <img height="180em" src=""/>
- <h2 align="left">Badge conquistada com esse projeto.</h2>
+<div align="center">
+  <img height="300px" width="300px" src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/badge_decodificador.png"/>
+  <h2 align="center">Badge conquistada com esse projeto.</h2>
 </div
-
+ 
 ### Links Úteis:
 [Challenge Oracle ONE](https://www.alura.com.br/challenges/oracle-one/semana01e02-construa-decodificador-texto-com-javascript) |
 [Projeto no Figma](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=16%3A802)
