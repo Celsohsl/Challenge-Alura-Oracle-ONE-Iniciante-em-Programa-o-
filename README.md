@@ -5,10 +5,13 @@
  </div>
  
  <h2 align ="center">Screenshots</h2>
+ 
+ <div align ="center">
  <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador.png" />
  <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador%201.png" />
+ </div>
  
-
+ 
 <h2 align ="center">Sobre o desafio 📜<br>
 Construir um decodificador de texto com Javascript</h2>
 
