@@ -1,12 +1,11 @@
 <h1 align ="center">Primeiro Challenge:  Alura + Oracle ONE, Lógica de Programação!</h1>
 
  <div align ="center">
- <img  src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/share_image.jpg" />
+ <img  src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/banner-topo.jpg" />
  </div>
  
  <h2 align ="center">Screenshots</h2>
  <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador.png" />
- 
  <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador%201.png" />
  
 
